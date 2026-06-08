@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "62665370426",
+    "project_id": "elfid-5cd8a",
+    "storage_bucket": "elfid-5cd8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62665370426:android:9b3ed912c6104b6a273e03",
+        "android_client_info": {
+          "package_name": "com.elikiasolutions.perfect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62665370426-no8cdf0dnqqoibnd18hnlka74kireh1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVjI_1JbGtQ5bI76qNlozfj9bDd-_hg9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62665370426-4rkdc6etn0mbcmllupj6b7i6sommto8l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "62665370426-qu7poa01jtfu3ntukbdgse4s6ckn5p3d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elikiasolutions.perfect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
